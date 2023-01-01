@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "extract-css-chunks-webpack-plugin": "^4.6.0"
+    "extract-css-chunks-webpack-plugin": "^4.9.0"
   }
 }
